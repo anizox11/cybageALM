@@ -1,8 +1,9 @@
 this is my new file at Butbucket and Github
 this
-maybe
-some
+is
+also
 new
 content
 this is another 
 contrent
+some new text
