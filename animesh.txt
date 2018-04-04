@@ -4,6 +4,10 @@ is
 also
 new
 content
+newfeature1
 this is another 
 contrent
 some new text
+some new tesxt
+some extra text
+master
